@@ -1,3 +1,4 @@
 inserting new text 
 inserting Another line of text.
 This text is from Branch 2.
+This is another line form master branch.
